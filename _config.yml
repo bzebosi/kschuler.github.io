@@ -1,6 +1,6 @@
-title: "Kathryn Schuler"
-author: "Katie Schuler"
-description: "University of Pennsylvania"
+title: "Brian Zebosi"
+author: "Brian Zebosi"
+description: "Iowa State Unversity"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -21,9 +21,9 @@ navigation:
   - {title: "Blog", file: "blog.md"}
 
 external:                  # see http://fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:kathryn.schuler@gmail.com"}
-  - {title: Github, icon: github, url: "https://github.com/kschuler"}
-  - {title: Twitter, icon: twitter, url: "https://twitter.com/kathrynschuler"}
+  - {title: Mail, icon: envelope, url: "mailto:zebosibrian@gmail.com"}
+  - {title: Github, icon: github, url: "https://github.com/bzebosi"}
+  - {title: Twitter, icon: twitter, url: "https://twitter.com/zebrimas"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
