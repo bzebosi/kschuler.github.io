@@ -3,8 +3,6 @@ layout: page
 title: ""
 ---
 
-I'm an assistant professor in the [Linguistics Department](https://www.ling.upenn.edu) at the University of Pennsylvania and the director of the [Child Language Lab](http://web.childlanglab.com/). 
+Am Graduate Research and Teaching Assistant in [Genetics, Development, and Cell Biology Department](https://www.gdcb.iastate.edu/) at Iowa State University, ISU and as a graduate student in Dr. Erik Vollbrecht's [Vollbrecht Lab](https://vollbrechtlab.gdcb.iastate.edu/). 
 
-I often graduate seminars in [psycholinguistics](/ling607) and [neurolinguistics](/neurolinguistics) and an undergraduate course in [language and the brain](/ling104). Occasionally, I also teach [LING 1](/ling001), Penn's Introduction to Linguistics.
 
-This semester I'm teaching a new undergraduate course (with Colin Twomey): [Data Science for Studying Language and the Mind](/ling172).
