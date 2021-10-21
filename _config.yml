@@ -19,12 +19,27 @@ navigation:
   - {title: "CV", url: "/katie.pdf", icon: home}
   - {title: "Research", file: "blog.md"}
   - {title: "Blog", file: "blog.md"}
+Github: "https://github.com/bzebosi"
 
-external:                  # see http://fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:zebosibrian@gmail.com"}
-  - {title: LinkedIn, icon: linkedIn, url: "https://www.linkedin.com/in/zebosi-brian-a76b07100/"}
-  - {title: Github, icon: github, url: "https://github.com/bzebosi"}
-  - {title: Twitter, icon: twitter, url: "https://twitter.com/zebrimas"}
+
+#external:                  # see http://fontawesome.com/icons
+ # - {title: Mail, icon: envelope, url: "mailto:zebosibrian@gmail.com"}
+  #- {title: LinkedIn, icon: linkedIn, url: "https://www.linkedin.com/in/zebosi-brian-a76b07100/"}
+  #- {title: Github, icon: github, url: "https://github.com/bzebosi"}
+  #- {title: Twitter, icon: twitter, url: "https://twitter.com/zebrimas"}
+  
+  
+  social-network-links:
+  email: "zebosibrian@gmail.com"
+  github: "bzebosi"
+  twitter: "zebrimas"
+  
+  # Select which share links to show in posts
+share-links-active:
+  twitter: true
+#  facebook: true
+  google: false
+  linkedin: true
   
 
 comments:
