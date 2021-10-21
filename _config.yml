@@ -17,6 +17,7 @@ show_sidebar: false        # show a sidebar instead of the usual header
 
 navigation:
   - {title: "CV", url: "/katie.pdf", icon: home}
+  - {title: "Research", file: "blog.md"}
   - {title: "Blog", file: "blog.md"}
 
 external:                  # see http://fontawesome.com/icons
