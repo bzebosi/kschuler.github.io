@@ -22,12 +22,7 @@ navigation:
 Github: "https://github.com/bzebosi"
 
 
-#external:                  # see http://fontawesome.com/icons
- # - {title: Mail, icon: envelope, url: "mailto:zebosibrian@gmail.com"}
-  #- {title: LinkedIn, icon: linkedIn, url: "https://www.linkedin.com/in/zebosi-brian-a76b07100/"}
-  #- {title: Github, icon: github, url: "https://github.com/bzebosi"}
-  #- {title: Twitter, icon: twitter, url: "https://twitter.com/zebrimas"}
-  
+ 
   
   social-network-links:
   email: "zebosibrian@gmail.com"
