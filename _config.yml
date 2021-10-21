@@ -24,6 +24,7 @@ external:                  # see http://fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:zebosibrian@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/bzebosi"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/zebrimas"}
+  - {title: LinkedIn, icon: LinkedIn, url: "https://www.linkedin.com/in/zebosi-brian-a76b07100/"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
